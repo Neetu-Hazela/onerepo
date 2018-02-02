@@ -9,6 +9,7 @@
  # editing onerepo README file - Change 7
  # editing onerepo README file - Change 8
 <<<<<<< HEAD
+<<<<<<< HEAD
  
  #New line 1 added
  
@@ -19,5 +20,7 @@
  #New line 3 added
  #New line 3 added
 
+=======
+>>>>>>> parent of 467ad75... line 1 commit
 =======
 >>>>>>> parent of 467ad75... line 1 commit
